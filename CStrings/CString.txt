@@ -1,0 +1,33 @@
+*****Diana Rachvak*****
+
+>>>You entered: Have a nice day!
+
+You chose to count vowels in your sentense.
+There are 7 vowels in your sentense
+
+You chose to count consonants in your sentense.
+There are 4 consonants in your sentense
+
+You chose to count both vowels and consonants in your sentense.
+There are 7 vowels and 4 consonants in your sentense
+
+>>>You entered:  Learning computer languages is fun!
+
+You chose to count both vowels and consonants in your sentense.
+There are 12 vowels and 17 consonants in your sentense
+
+k You entered invalid choice. Try again.
+
+
+>>>You entered:  C++ exam number two is next week. Time to get ready.
+
+You chose to count vowels in your sentense.
+There are 16 vowels in your sentense
+
+You chose to count consonants in your sentense.
+There are 20 consonants in your sentense
+
+You chose to count both vowels and consonants in your sentense.
+There are 16 vowels and 20 consonants in your sentense
+
+You chose to exit. Good bye!

@@ -1,0 +1,12 @@
+Diana Rachvak 123456789 1234 Checking 6785.98 open
+Maria Ginger 345127980 2345 Savings 6577.90 open
+Robert Tergy 109345612 3456 CD 234.09 open
+Abraham Lincoln 567341256 4567 Checking 512.77 open
+Kate Antipova 80972436 5678 Savings 89.78 open
+Mary Hugo 574331290 6789 CD 1123.46 open
+David Numop 89067345 7890 Checking 456.76 open
+Angelina Perez 18045651 9876 Savings 98.11 open
+Frederic Molk 901234785 8765 CD 3470.80 open
+Sigmund Freud 350672341 7654 Checking 0 open
+Nika Yagu 678241311 6543 Savings 112.45 open
+Brad Notpitt 905681524 5432 CD 789.04 open

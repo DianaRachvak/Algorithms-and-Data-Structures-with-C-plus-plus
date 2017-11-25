@@ -1,0 +1,82 @@
+***Diana Rachvak***
+
+************************************************
+**Number to be converted into month-day format**
+************************************************
+You entered: 12
+It's January 12
+*Demonstrating postfix ++* Next day is: January 13
+*Demonstrating postfix --* Day before was: January 11
+*Demonstrating prefix ++* Next day is: January 13
+*Demonstrating prefix --* Day before was: January 11
+
+You entered: 35
+It's February 4
+*Demonstrating postfix ++* Next day is: February 5
+*Demonstrating postfix --* Day before was: February 3
+*Demonstrating prefix ++* Next day is: February 5
+*Demonstrating prefix --* Day before was: February 3
+
+You entered: 67
+It's March 8
+*Demonstrating postfix ++* Next day is: March 9
+*Demonstrating postfix --* Day before was: March 7
+*Demonstrating prefix ++* Next day is: March 9
+*Demonstrating prefix --* Day before was: March 7
+
+You entered: 556
+You entered invalid number.Try again
+
+You entered: 78
+It's March 19
+*Demonstrating postfix ++* Next day is: March 20
+*Demonstrating postfix --* Day before was: March 18
+*Demonstrating prefix ++* Next day is: March 20
+*Demonstrating prefix --* Day before was: March 18
+
+You entered: 1
+It's January 1
+*Demonstrating postfix ++* Next day is: January 2
+*Demonstrating postfix --* Day before was: December 31
+*Demonstrating prefix ++* Next day is: January 2
+*Demonstrating prefix --* Day before was: December 31
+
+You entered: 198
+It's July 17
+*Demonstrating postfix ++* Next day is: July 18
+*Demonstrating postfix --* Day before was: July 16
+*Demonstrating prefix ++* Next day is: July 18
+*Demonstrating prefix --* Day before was: July 16
+
+You entered: -34
+You entered invalid number.Try again
+
+You entered: 155
+It's June 4
+*Demonstrating postfix ++* Next day is: June 5
+*Demonstrating postfix --* Day before was: June 3
+*Demonstrating prefix ++* Next day is: June 5
+*Demonstrating prefix --* Day before was: June 3
+
+You entered: 365
+It's December 31
+*Demonstrating postfix ++* Next day is: January 1
+*Demonstrating postfix --* Day before was: December 30
+*Demonstrating prefix ++* Next day is: January 1
+*Demonstrating prefix --* Day before was: December 30
+
+*******************************************
+**Month and day converted into day number**
+*******************************************
+You entered: February 14
+It's day #45
+
+You entered: September 12
+It's day #255
+
+You entered: December 31
+It's day #365
+
+You entered: October 42
+You entered invalid day for a month. 
+Program is being terminated.
