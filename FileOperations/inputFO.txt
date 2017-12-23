@@ -1,0 +1,1 @@
+an INPUT STREAM is a sequence from which data can be read.an OUTPUT STREAM is a sequence to which data can be written.an INPUT-OUTPUT stream is a sequence of data that allows both reading and writing.the KEYBORD is the standard example of an input stream.the monitor screen is the standard exmple of an output stream.
