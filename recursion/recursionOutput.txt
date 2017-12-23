@@ -1,0 +1,29 @@
+
+******Diana Rachvak******
+
+****************part 1******************
+parking #: 3
+ No parking
+
+parking #: 2
+ No parking
+
+parking #: 1
+ No parking
+
+parking #: 0
+parking #: 0 is returning
+parking #: 0 is returning
+parking #: 1 is returning
+parking #: 2 is returning
+
+
+
+
+***************part 2*******************
+
+you entered: computer science
+in reverse: ecneics retupmoc
+
+you entered: End of the fall semester
+in reverse: retsemes llaf eht fo dnE
