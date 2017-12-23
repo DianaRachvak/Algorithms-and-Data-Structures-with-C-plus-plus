@@ -1,0 +1,220 @@
+
+********Diana Rachvak********
+
+There is total of 12 accounts
+**Present accounts information**
+<Name>          <SSN>      <acct Number> <acct Type>    <Balance>
+Diana Rachvak	123456789	1234	Checking       	6785.98
+Maria Ginger	345127980	2345	Savings       	6577.9
+Robert Tergy	109345612	3456	CD       	234.09
+Abraham Lincoln	567341256	4567	Checking       	512.77
+Kate Antipova	80972436	5678	Savings       	89.78
+Mary Hugo	574331290	6789	CD       	1123.46
+David Numop	89067345	7890	Checking       	456.76
+Angelina Perez	18045651	9876	Savings       	98.11
+Frederic Molk	901234785	8765	CD       	3470.8
+Sigmund Freud	350672341	7654	Checking       	4568.23
+Nika Yagu	678241311	6543	Savings       	112.45
+Brad Notpitt	905681524	5432	CD       	789.04
+
+
+*Balance transaction*
+account number:    1234
+balance is:    6785.98
+
+
+
+*Balance transaction*
+account number:    5477
+account number doesn't exist. Please try again
+
+
+
+*Balance transaction*
+account number:    4567
+balance is:    512.77
+
+
+
+*Deposit transaction*
+account number: 5678
+deposit amount     678
+old balance    89.78
+new balance    767.78
+
+
+
+*Deposit transaction*
+account number: 1567
+account number doesn't exist. Please try again
+
+
+
+*Deposit transaction*
+account number: 7890
+deposit amount     900.00
+old balance    456.76
+new balance    1356.76
+
+
+
+*Deposit transaction*
+account number: 7654
+deposit amount     -35.00
+invalid deposit amount
+
+
+
+*Withdrawal transaction*
+account number: 6543
+old balance    112.45
+withdrawal amount:   2457.00
+Insufficient funds. 
+Withdrawal amount exceeds available balance
+
+
+
+*Withdrawal transaction*
+account number: 2345
+old balance    6577.90
+withdrawal amount:   600.00
+new balance    5977.90
+
+
+
+*Withdrawal transaction*
+account number: 3456
+old balance    234.09
+withdrawal amount:   -567.00
+invalid withdrawal amount
+
+
+*Withdrawal transaction*
+account number: 7654
+old balance    4568.23
+withdrawal amount:   1200.00
+new balance    3368.23
+
+
+
+*Withdrawal transaction*
+account number: 1678
+account number doesn't exist. Please try again
+
+g You entered invalid choice. Try again
+
+
+k You entered invalid choice. Try again
+
+
+Your entered 5433
+New account successfully created!
+Your name is Monica Bravo
+Your Social Security Number is 678345219
+Your account number is 5433
+Your account type Checking
+Your Balance is 567.00
+
+
+Your entered 7264
+New account successfully created!
+Your name is Tom Perry
+Your Social Security Number is 927462233
+Your account number is 7264
+Your account type Savings
+Your Balance is 0.00
+
+
+
+*Balance transaction*
+account number:    7264
+balance is:    0.00
+
+
+Your entered 8365
+New account successfully created!
+Your name is Ricaldo Focci
+Your Social Security Number is 583453566
+Your account number is 8365
+Your account type CD
+Your Balance is 456.77
+
+
+
+*Withdrawal transaction*
+account number: 8365
+old balance    456.77
+withdrawal amount:   800.00
+Insufficient funds. 
+Withdrawal amount exceeds available balance
+
+
+Your entered 8765
+This account number already exists. Please try again
+
+
+
+*Deletion of an account*
+You entered account number 5678 to delete
+ Account number can not be deleted at the moment. Account has a balance: 89.78
+
+
+
+*Deletion of an account*
+You entered account number 7264 to delete
+Accomplished!
+
+
+
+*Deletion of an account*
+You entered account number 3110 to delete
+ Account number doesn't exist. Please try again
+
+Account Info
+ You entered> 123456789
+<Your Account Information>
+Name: Diana Rachvak
+Social Security Number: 123456789
+Account Number: 1234
+Type of an Account: Checking
+Account Balance 6785.98
+
+
+Account Info
+ You entered> 901234785
+<Your Account Information>
+Name: Frederic Molk
+Social Security Number: 901234785
+Account Number: 8765
+Type of an Account: CD
+Account Balance 3470.80
+
+
+Account Info
+ You entered> 574331290
+<Your Account Information>
+Name: Mary Hugo
+Social Security Number: 574331290
+Account Number: 6789
+Type of an Account: CD
+Account Balance 1123.46
+
+
+**New list of accounts and their info**
+There is total of 14 accounts now
+**Present accounts information**
+<Name>          <SSN>      <acct Number> <acct Type>    <Balance>
+Diana Rachvak	123456789	1234	Checking       	6785.98
+Maria Ginger	345127980	2345	Savings       	6577.90
+Robert Tergy	109345612	3456	CD       	234.09
+Abraham Lincoln	567341256	4567	Checking       	512.77
+Kate Antipova	80972436	5678	Savings       	89.78
+Mary Hugo	574331290	6789	CD       	1123.46
+David Numop	89067345	7890	Checking       	456.76
+Angelina Perez	18045651	9876	Savings       	98.11
+Frederic Molk	901234785	8765	CD       	3470.80
+Sigmund Freud	350672341	7654	Checking       	4568.23
+Nika Yagu	678241311	6543	Savings       	112.45
+Brad Notpitt	905681524	5432	CD       	789.04
+Monica Bravo	678345219	5433	Checking       	567.00
+Ricaldo Focci	583453566	8365	CD       	456.77
